@@ -1,10 +1,10 @@
 #%%
 print("Hello world")
-print(5 / 8)
-print (7+10)
-print(10/3, 3/10) # print numerical divisions
-print(10//3, 3//10) # print quotients from divisions
-print(10%3, 3%10) # print remainders from divisions
+print(1 / 8)
+print (1+10)
+print(12/3, 3/10) # print numerical divisions
+print(12//3, 3//10) # print quotients from divisions
+print(12%3, 3%10) # print remainders from divisions
 
 #%%
 astring = "Thank you"
